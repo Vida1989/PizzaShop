@@ -1,0 +1,8 @@
+pizza#Pizza Margherita#8#Tomatensaus#Mozzarella
+pizza#Pizza Napoli#10#Tomatensaus#Mozzarella#Ansjovis#Kappers#Olijven
+pizza#Pizza Lardiera#9,5#Tomatensaus#Mozzarella#Spek
+pizza#Pizza Vegetariana#9,5#Tomatensaus#Mozarella#Groenten
+pasta#Sphagetti Bolognese#12#met gehaktsaus 
+pasta#Spahgetti Carbonara#13#met Spek, roomsaus en parmezaanse kaas
+pasta#Penne Arrabbiata#14#met pittige romatensaus
+pasta#Lasagne#15#
