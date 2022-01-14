@@ -1,5 +1,5 @@
 # PizzaShop
-in this project pasta and pizzabar, I has worked with C# .Net Core (programming fundamentals). It's consist of
+in this project, I has worked with C# .Net Core (programming fundamentals). It's consist of
 * Overview orders and their details.
 * Show only Jan Janssen's orders and total amount.
 * Show every customer's orders.
